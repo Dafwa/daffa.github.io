@@ -47,9 +47,6 @@ li {
     font-size: 14.6px;
     text-align: center;
 }
-.border1:active {
-    background-color: blue;
-}
 .border1 {
     width: 120px;
     height: 40px;
@@ -61,6 +58,12 @@ li {
     color: white;
     font-family: 'Segoe UI';
     border: none;
+}
+.border1:hover {
+    background-color: rgb(94, 29, 155);
+}
+.border1:active {
+    background-color: blue;
 }
 .berita {
     margin-top: 50px;
@@ -122,9 +125,6 @@ li {
 .imgborder {
     border-radius: 20px;
 }
-.border2:active {
-    background-color: blue;
-}
 .border2 {
     margin-top: 20px;
     background-color: blueviolet;
@@ -139,6 +139,12 @@ li {
     border: none;
     margin-top: 30px;
     margin-bottom: 20px;
+}
+.border2:hover {
+    background-color: rgb(94, 29, 155);
+}
+.border2:active {
+    background-color: blue;
 }
 .about {
     background-color: rgb(155, 78, 226);
