@@ -58,6 +58,7 @@ li {
     color: white;
     font-family: 'Segoe UI';
     border: none;
+    cursor: pointer;
 }
 .border1:hover {
     background-color: rgb(94, 29, 155);
@@ -139,6 +140,7 @@ li {
     border: none;
     margin-top: 30px;
     margin-bottom: 20px;
+    cursor: pointer;
 }
 .border2:hover {
     background-color: rgb(94, 29, 155);
