@@ -3,7 +3,7 @@ body {
     padding: 0;
 }
 .body {
-    background-image: url("hero-image.jpg");
+    background-image: url("/img/hero-image.jpg");
     background-size: cover;
 }
 .beranda {
